@@ -7,6 +7,6 @@
 ## Local Setup
 
 ```shell
-npm i -g lite-server
+npm install -g lite-server
 lite-server
 ```
