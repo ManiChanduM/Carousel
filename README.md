@@ -2,7 +2,7 @@
 
 ## Live Link
 
-[Demo](https://manichandum.github.io/Carousel/){:target="_blank"}
+<a href="https://manichandum.github.io/Carousel/" target="_blank">Demo</a>
 
 ## Local Setup
 
