@@ -2,7 +2,7 @@
 
 ## Live Link
 
-[Demo](https://manichandum.github.io/Carousel/)
+[Demo](https://manichandum.github.io/Carousel/){:target="_blank"}
 
 ## Local Setup
 
